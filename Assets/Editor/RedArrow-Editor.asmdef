@@ -1,0 +1,10 @@
+{
+  "name": "RedArrow-Editor",
+  "references": [
+    "RedArrow"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
