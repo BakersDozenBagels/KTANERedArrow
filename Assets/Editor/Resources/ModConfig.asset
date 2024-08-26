@@ -24,6 +24,6 @@ MonoBehaviour:
 
 
     source: https://github.com/BakersDozenBagels/KTANERedArrow'
-  version: 1.0
+  version: 1.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 9bde6bb171b053b46a7c66fdd93c9ec9, type: 3}
